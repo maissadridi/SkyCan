@@ -51,8 +51,13 @@ Ce projet implémente un rendu 3D en OpenGL avec un skybox et un cube utilisant 
 - **Rendu OpenGL** : Configuration des VAO, VBO et rendu des objets
 
 ## Auteurs
-Développé par [Votre Nom].
+Développé par Maissa DRIDI / Mamarou DIALLO.
 
-## Licence
-Ce projet est sous licence MIT.
+## Ressources
+https://opengl.developpez.com/tutoriels/apprendre-opengl-4/?page=texture-cubique-cubemap
+https://jaxry.github.io/panorama-to-cubemap/
+https://github.com/VictorGordan/opengl-tutorials
+https://www.youtube.com/watch?v=gfHRVPeGyF0
+https://youtu.be/5NqmSE6KHE4?si=VPilqM4QqxC57iuy
+https://www.youtube.com/watch?v=ElwclNhYW04
 
