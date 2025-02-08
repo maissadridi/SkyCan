@@ -49,6 +49,10 @@ Ce projet implémente un rendu 3D en OpenGL avec un skybox et un cube utilisant 
 - **Gestion de la caméra** : Déplacement et orientation
 - **ImGui** : Interface graphique pour interagir avec la scène
 - **Rendu OpenGL** : Configuration des VAO, VBO et rendu des objets
+  
+## Output
+![Demo Animation](assets/demo.gif)
+
 
 ## Auteurs
 Développé par Maissa DRIDI / Mamarou DIALLO.
