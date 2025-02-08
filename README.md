@@ -51,7 +51,7 @@ Ce projet implémente un rendu 3D en OpenGL avec un skybox et un cube utilisant 
 - **Rendu OpenGL** : Configuration des VAO, VBO et rendu des objets
   
 ## Output
-![Demo Animation](assets/demo.gif)
+![Demo Animation](demo.gif)
 
 
 ## Auteurs
